@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**chaitra-raja/chaitra-raja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hey there! 👋 I'm Chaitra, a student with a deep love for all things tech and a burning curiosity to learn and explore. Whether it's mastering new languages or diving into exciting projects, I'm always up for the challenge!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 About Me:
+
+🎓 Currently pursuing Bachelors in Technology at Dayananda Sagar University.
+<br>🌱 Eager to soak up knowledge and experience in the world of software development.
+<br>💬 Let's connect and geek out over code!
+
+💡 What I'm Into:
+
+💻 Proficient in Java, C, Python.
+<br>🛠️ Exploring ReactJS and DataScience.
+<br>🚀 Ready to take on new projects and expand my skill set.
+
